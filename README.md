@@ -100,6 +100,16 @@ sudo python start.py
 
 * Random GET/POST/HEAD requests with spoofed headers and paths
 
+* ---
+
+## 📁 Required Files
+
+* `useragents.txt` — (must) list of user-agents, one per line.
+
+If not found,use ua.py for create the useragent (only input 10000 user agent dont too much)
+
+---
+
 ## ⚙️ Example Attack Flow
 
 1. **Login** → Enter username & password (from Pastebin)
