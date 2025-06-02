@@ -1,0 +1,5 @@
+requests
+rich
+colorama
+scapy
+python-nmap
