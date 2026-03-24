@@ -47,6 +47,11 @@ no env
 sudo pip install -r requirements.txt --break-system-package
 ```
 
+dont forget to install this package for run this ddos tool
+```bash
+sudo pip install kenxcode
+```
+
 ### Required packages
 
 * `requests`
@@ -69,7 +74,7 @@ If valid credentials are entered, access is granted to the main tool interface.
 ### Run the tool:
 
 ```bash
-sudo python start.py
+sudo kenxrun start.kenx
 ```
 
 ### Available Commands:
