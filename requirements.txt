@@ -3,3 +3,4 @@ rich
 colorama
 scapy
 python-nmap
+kenxcode
