@@ -77,6 +77,14 @@ If valid credentials are entered, access is granted to the main tool interface.
 sudo kenxrun start.kenx
 ```
 
+### Free password and username
+```username
+free2026
+```
+```password
+free2026
+```
+
 ### Available Commands:
 
 | Command      | Description                      |
